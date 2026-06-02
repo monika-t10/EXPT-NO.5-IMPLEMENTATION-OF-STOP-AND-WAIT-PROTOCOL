@@ -69,6 +69,8 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
  
 # OUTPUT
+<img width="1440" height="1080" alt="WhatsApp Image 2026-06-02 at 8 00 30 PM" src="https://github.com/user-attachments/assets/337eb586-80d8-490e-b89b-69adf9e32b2d" />
+
 
 
 
